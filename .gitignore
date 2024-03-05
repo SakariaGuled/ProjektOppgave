@@ -1,0 +1,63 @@
+# Ignore Visual Studio Code folder
+.vscode/
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nuget/
+*.nupkg
+*.pfx
+project.lock.json
+project.fragment.lock.json
+
+# Ignore build and publish folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Visual Studio Code config folder
+.vscode/
+
+# Ignore Rider folder
+.idea/
+
+# Ignore the .NET Core artifacts folder
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Resharper and Rider folders
+_ReSharper*/
+*.suo
+*.user
+*.sln.docstates
+_ReSharper*/
+.idea/
+
+# Ignore Visual Studio profiling folder
+.vs2022/
+.vs2017/
+.vs2019/
